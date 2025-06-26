@@ -1,19 +1,8 @@
 ![MasterHead](https://github.com/Anilsevinc/images/blob/main/Github%20banner.png)
 
-- 🔭 I’m currently working on **AI Chatbots and Virtual Assistants**
-
-- 🌱 I’m currently learning **LangChain, Deep Learning, Machine Learning, and Robotics**
-
-- 👯 I’m looking to collaborate on **LLM-based projects and practical AI applications**
-
-- 🤝 I’m looking for help with **robotic systems and hardware integration**
-
-- 💬 Ask me about **Generative AI, Large Language Models, and Data Processing**
-
-- 📫 How to reach me **anilsevinc@pm.me**
-
-- ⚡ Fun fact **I’m building an AI-powered travel guide app that suggests activities, places, and connects people!**
-
+I'm currently working on AI chatbots and virtual assistants, with a strong focus on building intelligent, user-oriented systems. I'm actively learning LangChain, deep learning, machine learning, and robotics to expand my skills in both software and hardware integration. I'm open to collaborating on LLM-based projects and applied AI solutions, and always eager to discuss topics like generative AI, large language models, and data processing.  
+I'm also exploring an AI-powered travel guide app that suggests personalized activities and helps people connect through shared interests.  
+You can reach me at anilsevinc@pm.me.    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anilsevnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilsevnc" height="30" width="40" /></a>
