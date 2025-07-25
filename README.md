@@ -1,11 +1,6 @@
 
-I'm a researcher and developer actively working to improve myself in the field of data science. My goal is to build systems that extract insights from data and offer solutions to real-world problems.
-I'm particularly interested in machine learning, deep learning, and large language models (LLMs). I aim to put theory into practice by learning through hands-on projects.
+I am a data scientist focused on data-driven problem solving, currently growing and actively creating solutions. I work on generative AI, large language models, and intelligent assistants, while also exploring other areas of artificial intelligence. I greatly enjoy contributing to open-source projects. As an analytical thinker with an open mind, a collaborative spirit, and curiosity, I aim to develop solutions for real-world problems and be part of communities that continuously grow and contribute to each other throughout the digital transformation journey.
 
-So far, I’ve worked on AI-powered virtual assistants, chatbot systems, and mobile-based AI solutions.  
-I value contributing to open-source projects and connecting with others who share similar interests.
-
-  
 You can reach me at anilsevinc@pm.me.    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
