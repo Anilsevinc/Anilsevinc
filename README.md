@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Anilsevinc/images/blob/main/Github%20banner.png)
+
 
 I'm currently working on AI chatbots and virtual assistants, with a strong focus on building intelligent, user-oriented systems. I'm actively learning LangChain, deep learning, machine learning, and robotics to expand my skills in both software and hardware integration. I'm open to collaborating on LLM-based projects and applied AI solutions, and always eager to discuss topics like generative AI, large language models, and data processing.  
 I'm also exploring an AI-powered travel guide app that suggests personalized activities and helps people connect through shared interests.  
