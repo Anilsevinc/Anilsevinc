@@ -31,6 +31,9 @@ You can reach me at anilsevinc@pm.me.
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
+  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
@@ -45,6 +48,9 @@ You can reach me at anilsevinc@pm.me.
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   </a>
 </p>
 
