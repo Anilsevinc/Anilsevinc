@@ -1,9 +1,9 @@
 # Hi there, I'm Anıl Sevinç 👋
 
-I am a computer engineering graduate with a focus on AI, data-driven projects, and backend development.  
-I have experience in model development, data analysis, and backend services.  
-During my internship in the US, I developed a customer-facing chatbot using RAG techniques to improve user experience.  
-I aim to further develop my skills in generative AI to create innovative solutions that deliver tangible value.
+I am a computer engineering graduate focused on AI, data-driven projects, and backend development. 
+I have hands-on experience in model development, data analysis, and backend services. 
+During my internship in the US, I developed a customer-facing chatbot using RAG techniques to enhance user experience. 
+Moving forward, I aim to deepen my expertise in generative AI and create innovative solutions that deliver real value.
 
 You can reach me at contact@anilsevinc.net.    
 
