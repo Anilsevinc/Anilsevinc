@@ -5,7 +5,7 @@ I have experience in model development, data analysis, and backend services.
 During my internship in the US, I developed a customer-facing chatbot using RAG techniques to improve user experience.  
 I aim to further develop my skills in generative AI to create innovative solutions that deliver tangible value.
 
-You can reach me at anilsevinc@pm.me.    
+You can reach me at contact@anilsevinc.net.    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
