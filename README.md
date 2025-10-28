@@ -35,15 +35,6 @@ You can reach me at contact@anilsevinc.net.
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/>
-  </a>
 
   <!-- Data & Databases -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -57,9 +48,6 @@ You can reach me at contact@anilsevinc.net.
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://faiss.ai/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/FAISS_logo.svg" alt="faiss" width="40" height="40"/>
   </a>
 
   <!-- Cloud & Deployment -->
@@ -88,23 +76,10 @@ You can reach me at contact@anilsevinc.net.
   </a>
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left">
-- **Programming & Fundamentals:** Python  
-- **AI & Machine Learning:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, Model Fine-Tuning, Retrieval-Augmented Generation (RAG), Embeddings  
-- **Frameworks & Libraries:** PyTorch, Keras (basic), scikit-learn, LangChain, Hugging Face Transformers, OpenAI API  
-- **Data & Databases:** SQL, Pandas, NumPy, Vector Databases (FAISS)  
-- **Cloud & Deployment:** AWS, Google Cloud, Docker, Streamlit, FastAPI, RESTful APIs  
-- **Tools & Workflow:** Git, GitHub, Linux, MLOps (basic)
-</p>
-
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=anilsevinc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=anilsevinc&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
