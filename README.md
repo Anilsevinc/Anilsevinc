@@ -34,32 +34,41 @@ You can reach me at contact@anilsevinc.net.
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> 
   </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a>
 </p>
 
+<h3 align="left">Skills:</h3>
+<p align="left">
+- **Programming & Fundamentals:** Python  
+- **AI & Machine Learning:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, Model Fine-Tuning, Retrieval-Augmented Generation (RAG), Embeddings  
+- **Frameworks & Libraries:** PyTorch, Keras (basic), scikit-learn, LangChain, Hugging Face Transformers, OpenAI API  
+- **Data & Databases:** SQL, Pandas, NumPy, Vector Databases (FAISS)  
+- **Cloud & Deployment:** AWS, Google Cloud, Docker, Streamlit, FastAPI, RESTful APIs  
+- **Tools & Workflow:** Git, GitHub, Linux, MLOps (basic)
+</p>
 
 <table>
   <tr>
@@ -67,7 +76,7 @@ You can reach me at contact@anilsevinc.net.
       <img src="https://github-readme-stats.vercel.app/api?username=anilsevinc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilsevinc&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=anilsevinc&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
