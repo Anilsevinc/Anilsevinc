@@ -22,6 +22,7 @@ You can reach me at contact@anilsevinc.net.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <!-- Programming & ML -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -34,29 +35,56 @@ You can reach me at contact@anilsevinc.net.
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/>
+  </a>
+
+  <!-- Data & Databases -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> 
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://faiss.ai/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/FAISS_logo.svg" alt="faiss" width="40" height="40"/>
+  </a>
+
+  <!-- Cloud & Deployment -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Logo.svg" alt="gcp" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> 
+  </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/> 
   </a>
 </p>
 
