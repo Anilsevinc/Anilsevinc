@@ -19,7 +19,7 @@ You can reach me at contact@anilsevinc.net.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anills" height="30" width="40" />
   </a>
 </p>
-   
+<!--
 <table>
   <tr>
     <td>
@@ -30,3 +30,4 @@ You can reach me at contact@anilsevinc.net.
     </td>
   </tr>
 </table>
+-->
