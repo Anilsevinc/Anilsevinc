@@ -12,7 +12,7 @@ You can reach me at contact@anilsevinc.net.
   <a href="https://linkedin.com/in/anilsevnc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilsevnc" height="30" width="40" />
   </a>
-  <a href="[https://stackoverflow.com/users/anıl sevinc](https://stackoverflow.com/users/30901014/anilss)" target="blank">
+  <a href="https://stackoverflow.com/users/30901014/anilss" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anıl sevinc" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/anills" target="blank">
